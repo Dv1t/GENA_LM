@@ -33,7 +33,7 @@ from tqdm import tqdm
 VARIANT_REGION_BP  = 3_000   # 3 kbp centered on variant
 TSS_REGION_BP      = 12_000   # 12 kbp centered on TSS
 MAX_TOKENS         = 1_024   # hard model limit including CLS + SEP
-VARIANT_REGION_TOKENS = 100
+VARIANT_REGION_TOKENS = 30
 MAX_CONTENT_TOKENS = MAX_TOKENS - 2   # 1022 usable token slots
 # Approximate token/bp ratio for the GENA-LM tokenizer (used only for initial fetch sizing)
 APPROX_BP_PER_TOKEN = 6
