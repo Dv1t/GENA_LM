@@ -1,0 +1,12 @@
+{
+    "assay_term_name": "RNA-seq",
+    "description": "The libraries contained in this Experiment come from tissue sub-sections of a 53 year old female's liver tissue section obtained from GTEx. They are stranded PE101 Illumina Hi-Seq RNA-Seq libraries from rRNA-depleted Total RNA > 200 nucleotides in size.",
+    "biosample_summary": "Homo sapiens right lobe of liver tissue female adult (53 years)",
+    "life_stage_age": "adult 53 years",
+    "perturbed": false,
+    "strand_specificity": "reverse",
+    "genome_annotation": "V29",
+    "mapped_run_type": "paired-ended",
+    "id": "ENCFF142RGB",
+    "genome": "GRCh38"
+}

@@ -93,3 +93,4 @@ downstream_tasks/expression_prediction/test.*
 downstream_tasks/expression_prediction/shift_expression_checks/*.csv
 downstream_tasks/expression_prediction/*minja*
 downstream_tasks/expression_prediction/configs/*minja*
+/downstream_tasks/eQTL_benchmark/data
